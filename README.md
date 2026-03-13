@@ -1,5 +1,44 @@
-# 💫 About Me:
-# Hi, I'm Ram Parekh 👋<br><br>🎓 MS in Management of Technology – New York University  <br>💻 Data Engineer | AI Systems Builder | Data Infrastructure Enthusiast  <br>📍 New York City  <br><br>I build **scalable data systems, AI-powered applications, and analytics platforms**.  <br>My work focuses on **data engineering, machine learning infrastructure, and production AI systems**.<br><br>---<br><br>## 🚀 What I Work On<br><br>- Building **large-scale data pipelines**<br>- Designing **ETL workflows for high-volume datasets**<br>- Developing **AI applications using LLMs**<br>- Deploying **cloud-based data platforms**<br>- Creating **tools that automate decision-making with data**<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Languages<br>Python • SQL • R • C/C++ • JavaScript<br><br>### Data Engineering<br>Pandas • NumPy • Dask • Apache Spark • Kafka • Hadoop • Hive  <br>ETL Pipelines • Data Modeling • Schema Design • Data Validation<br><br>### Machine Learning<br>Scikit-learn • PyTorch • TensorFlow  <br>Clustering • Time Series Forecasting • Statistical Modeling<br><br>### Data & Visualization<br>Tableau • Power BI • Matplotlib<br><br>### Cloud & Infrastructure<br>AWS (S3, ECS, Lambda, CloudWatch)  <br>Docker • Kubernetes • Airflow  <br>PostgreSQL • MySQL • MongoDB<br><br>---<br><br>## 📊 Featured Projects<br><br>### PhD Career Intelligence Platform<br>AI-powered career recommendation system using **transformer embeddings and RIASEC personality alignment**.<br><br>Features:<br>- Career recommendation engine<br>- CV → Resume transformation system<br>- Automated skill extraction<br>- AI-powered career path mapping<br><br>Tech:<br>Python • NLP • Transformers • AWS<br><br>---<br><br>### AI Experimentation Sandbox<br>A secure platform to test **LLM models across multiple agencies**.<br><br>Features:<br>- Model evaluation pipelines<br>- Experiment tracking with MLflow<br>- Synthetic dataset testing<br>- Governance workflows for AI experimentation<br><br>Tech:<br>Python • Azure ML • MLflow<br><br>---<br><br>### Scalable Data Validation Pipelines<br>Built large-scale Python pipelines validating **multi-terabyte education datasets across multiple US states**.<br><br>Highlights:<br>- Chunked processing with Dask<br>- Automated anomaly detection<br>- Migration from SAS → Python workflows<br>- Reduced runtime by ~25%<br><br>---<br><br>## 📈 Professional Experience<br><br>**Institutional Research Analyst – NYU**<br><br>- Built containerized data applications deployed on AWS ECS<br>- Developed multi-source ETL pipelines ingesting APIs, Excel, and S3 data<br>- Reduced data refresh latency from 45s → under 5s<br>- Implemented caching systems reducing API calls by ~80%<br><br>**Technical Data Analyst Intern – Cambium Assessment**<br><br>- Built large-scale data validation pipelines<br>- Processed multi-terabyte education datasets<br>- Automated data quality checks across 15+ state programs<br><br>---<br><br>## 📚 Research<br><br>Published research on intelligent systems:<br><br>**Enhancement on Human Machine**<br><br>---<br><br>## 🌱 Currently Exploring<br><br>- LLM infrastructure<br>- Multi-agent AI systems<br>- Distributed data pipelines<br>- AI-powered developer tools<br><br>---<br><br>## 📫 Let's Connect<br><br>LinkedIn: https://linkedin.com/in/YOUR_LINK  <br>Email: rp4230@nyu.edu  <br>GitHub: https://github.com/YOUR_USERNAME<br><br>---<br><br>⭐ Always interested in collaborating on **AI, data engineering, and scalable systems projects**.<br>
+# Hi, I'm Ram Parekh
+
+MS in Management of Technology – NYU  
+Data Engineer | AI Systems Builder
+
+I build scalable data systems, AI-powered applications, and analytics platforms.
+
+---
+
+## What I Work On
+
+- Data pipelines
+- ETL workflows
+- LLM applications
+- Cloud data infrastructure
+
+---
+
+## Tech Stack
+
+Python | SQL | Spark | AWS | Docker | Kubernetes | Airflow
+
+---
+
+## Featured Projects
+
+PhD Career Intelligence Platform  
+AI system matching PhD profiles to career paths using transformer embeddings.
+
+AI Experimentation Sandbox  
+Secure LLM experimentation environment with MLflow tracking.
+
+Large-scale Data Validation Pipelines  
+Python pipelines validating multi-terabyte education datasets across multiple US states.
+
+---
+
+## Contact
+
+Email: rp4230@nyu.edu
+
 
 
 ## 🌐 Socials:
