@@ -1,11 +1,10 @@
 # Hi, I'm Ram Parekh
 
 MS in Management of Technology – NYU  
+
 Data Engineer | AI Systems Builder
 
 I build scalable data systems, AI-powered applications, and analytics platforms.
-
----
 
 ## What I Work On
 
@@ -14,13 +13,11 @@ I build scalable data systems, AI-powered applications, and analytics platforms.
 - LLM applications
 - Cloud data infrastructure
 
----
 
 ## Tech Stack
 
 Python | SQL | Spark | AWS | Docker | Kubernetes | Airflow
 
----
 
 ## Featured Projects
 
@@ -33,7 +30,6 @@ Secure LLM experimentation environment with MLflow tracking.
 Large-scale Data Validation Pipelines  
 Python pipelines validating multi-terabyte education datasets across multiple US states.
 
----
 
 ## Contact
 
